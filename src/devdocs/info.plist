@@ -141,7 +141,7 @@
 				<key>fixedorder</key>
 				<false/>
 				<key>items</key>
-				<string>[{"title":"HTML","arg":"html "},{"title":"CSS","arg":"css "},{"title":"JavaScript","arg":"javascript "},{"title":"DOM","arg":"web ","subtitle":"Web APIs"},{"title":"React","arg":"react "},{"title":"Electron","arg":"electron "},{"title":"Python","arg":"python "},{"title":"Go","arg":"go "}]</string>
+				<string>[{"title":"HTML","arg":"html "},{"title":"CSS","arg":"css "},{"title":"JavaScript","arg":"javascript "},{"title":"DOM","arg":"web ","subtitle":"Web APIs"},{"title":"React","arg":"react "},{"title":"Electron","arg":"electron "},{"title":"Python","arg":"python "},{"title":"Go","arg":"go "},{"title":"NodeJS","arg":"node"}]</string>
 				<key>keyword</key>
 				<string>dd</string>
 				<key>matchmode</key>
